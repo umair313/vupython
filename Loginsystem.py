@@ -1,3 +1,12 @@
+# program is created on pycharm with Microsoft SQL server management studio 
+# clear function and getpass function only works on console screens (command prompt)
+# their is also no error handling in case of faild database connection or wrong SQL query because i could not do that now 
+# add it sorry about that
+# you add these and improve it much further
+
+
+
+
 import pyodbc
 import os
 import getpass
